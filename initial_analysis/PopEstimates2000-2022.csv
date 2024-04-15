@@ -1,0 +1,691 @@
+County,Year,Pop
+Utah,2000,2244502
+Utah,2001,2283715
+Utah,2002,2324815
+Utah,2003,2360137
+Utah,2004,2401580
+Utah,2005,2457719
+Utah,2006,2525507
+Utah,2007,2597746
+Utah,2008,2663029
+Utah,2009,2723421
+Utah,2010,2775413
+Utah,2011,2814797
+Utah,2012,2854146
+Utah,2013,2898773
+Utah,2014,2938327
+Utah,2015,2983626
+Utah,2016,3044241
+Utah,2017,3103540
+Utah,2018,3155153
+Utah,2019,3203383
+Utah,2020,3283785
+Utah,2021,3339113
+Utah,2022,3380800
+Beaver County,2000,5998
+Beaver County,2001,5999
+Beaver County,2002,6058
+Beaver County,2003,6039
+Beaver County,2004,6077
+Beaver County,2005,6192
+Beaver County,2006,6281
+Beaver County,2007,6266
+Beaver County,2008,6413
+Beaver County,2009,6552
+Beaver County,2010,6657
+Beaver County,2011,6560
+Beaver County,2012,6500
+Beaver County,2013,6454
+Beaver County,2014,6428
+Beaver County,2015,6351
+Beaver County,2016,6463
+Beaver County,2017,6402
+Beaver County,2018,6620
+Beaver County,2019,6725
+Beaver County,2020,7087
+Beaver County,2021,7203
+Beaver County,2022,7327
+Box Elder County,2000,42882
+Box Elder County,2001,43362
+Box Elder County,2002,44038
+Box Elder County,2003,44548
+Box Elder County,2004,44666
+Box Elder County,2005,45090
+Box Elder County,2006,45948
+Box Elder County,2007,47193
+Box Elder County,2008,48437
+Box Elder County,2009,49372
+Box Elder County,2010,50178
+Box Elder County,2011,50242
+Box Elder County,2012,50205
+Box Elder County,2013,50730
+Box Elder County,2014,51309
+Box Elder County,2015,51839
+Box Elder County,2016,52995
+Box Elder County,2017,53999
+Box Elder County,2018,54807
+Box Elder County,2019,55957
+Box Elder County,2020,57946
+Box Elder County,2021,59693
+Box Elder County,2022,61498
+Cache County,2000,91861
+Cache County,2001,92831
+Cache County,2002,95493
+Cache County,2003,97101
+Cache County,2004,98854
+Cache County,2005,100501
+Cache County,2006,101236
+Cache County,2007,103624
+Cache County,2008,106824
+Cache County,2009,110291
+Cache County,2010,113388
+Cache County,2011,114800
+Cache County,2012,115925
+Cache County,2013,117070
+Cache County,2014,117956
+Cache County,2015,119777
+Cache County,2016,122347
+Cache County,2017,124448
+Cache County,2018,126574
+Cache County,2019,128309
+Cache County,2020,133624
+Cache County,2021,137429
+Cache County,2022,140173
+Carbon County,2000,20491
+Carbon County,2001,19937
+Carbon County,2002,20114
+Carbon County,2003,20146
+Carbon County,2004,20026
+Carbon County,2005,19870
+Carbon County,2006,20072
+Carbon County,2007,20554
+Carbon County,2008,20596
+Carbon County,2009,21143
+Carbon County,2010,21403
+Carbon County,2011,21308
+Carbon County,2012,21226
+Carbon County,2013,20908
+Carbon County,2014,20642
+Carbon County,2015,20400
+Carbon County,2016,20349
+Carbon County,2017,20171
+Carbon County,2018,20248
+Carbon County,2019,20476
+Carbon County,2020,20488
+Carbon County,2021,20361
+Carbon County,2022,20571
+Daggett County,2000,926
+Daggett County,2001,929
+Daggett County,2002,907
+Daggett County,2003,914
+Daggett County,2004,952
+Daggett County,2005,967
+Daggett County,2006,984
+Daggett County,2007,974
+Daggett County,2008,993
+Daggett County,2009,1037
+Daggett County,2010,1077
+Daggett County,2011,1162
+Daggett County,2012,1096
+Daggett County,2013,1141
+Daggett County,2014,1125
+Daggett County,2015,1107
+Daggett County,2016,1075
+Daggett County,2017,1012
+Daggett County,2018,984
+Daggett County,2019,964
+Daggett County,2020,952
+Daggett County,2021,977
+Daggett County,2022,1014
+Davis County,2000,240422
+Davis County,2001,244687
+Davis County,2002,249676
+Davis County,2003,255582
+Davis County,2004,262189
+Davis County,2005,269208
+Davis County,2006,278800
+Davis County,2007,288236
+Davis County,2008,295801
+Davis County,2009,301965
+Davis County,2010,307919
+Davis County,2011,311904
+Davis County,2012,316022
+Davis County,2013,322368
+Davis County,2014,328891
+Davis County,2015,334814
+Davis County,2016,341255
+Davis County,2017,346858
+Davis County,2018,351154
+Davis County,2019,355304
+Davis County,2020,363745
+Davis County,2021,367446
+Davis County,2022,369948
+Duchesne County,2000,14449
+Duchesne County,2001,14652
+Duchesne County,2002,14969
+Duchesne County,2003,15002
+Duchesne County,2004,15101
+Duchesne County,2005,15473
+Duchesne County,2006,15823
+Duchesne County,2007,16651
+Duchesne County,2008,17412
+Duchesne County,2009,18536
+Duchesne County,2010,18647
+Duchesne County,2011,18700
+Duchesne County,2012,18999
+Duchesne County,2013,19959
+Duchesne County,2014,20197
+Duchesne County,2015,20743
+Duchesne County,2016,20226
+Duchesne County,2017,19852
+Duchesne County,2018,19902
+Duchesne County,2019,19877
+Duchesne County,2020,19617
+Duchesne County,2021,19806
+Duchesne County,2022,20161
+Emery County,2000,10850
+Emery County,2001,10614
+Emery County,2002,10548
+Emery County,2003,10545
+Emery County,2004,10460
+Emery County,2005,10471
+Emery County,2006,10445
+Emery County,2007,10566
+Emery County,2008,10740
+Emery County,2009,10896
+Emery County,2010,11004
+Emery County,2011,10986
+Emery County,2012,10941
+Emery County,2013,10761
+Emery County,2014,10641
+Emery County,2015,10360
+Emery County,2016,10221
+Emery County,2017,10027
+Emery County,2018,10039
+Emery County,2019,10061
+Emery County,2020,9842
+Emery County,2021,9963
+Emery County,2022,10099
+Garfield County,2000,4747
+Garfield County,2001,4705
+Garfield County,2002,4650
+Garfield County,2003,4605
+Garfield County,2004,4552
+Garfield County,2005,4582
+Garfield County,2006,4670
+Garfield County,2007,4850
+Garfield County,2008,5010
+Garfield County,2009,5068
+Garfield County,2010,5196
+Garfield County,2011,5150
+Garfield County,2012,5064
+Garfield County,2013,5033
+Garfield County,2014,5009
+Garfield County,2015,4966
+Garfield County,2016,4956
+Garfield County,2017,5022
+Garfield County,2018,4970
+Garfield County,2019,5000
+Garfield County,2020,5107
+Garfield County,2021,5149
+Garfield County,2022,5281
+Grand County,2000,8420
+Grand County,2001,8436
+Grand County,2002,8556
+Grand County,2003,8556
+Grand County,2004,8528
+Grand County,2005,8657
+Grand County,2006,8787
+Grand County,2007,8838
+Grand County,2008,8981
+Grand County,2009,9034
+Grand County,2010,9301
+Grand County,2011,9286
+Grand County,2012,9343
+Grand County,2013,9361
+Grand County,2014,9464
+Grand County,2015,9530
+Grand County,2016,9616
+Grand County,2017,9591
+Grand County,2018,9715
+Grand County,2019,9773
+Grand County,2020,9677
+Grand County,2021,9665
+Grand County,2022,9769
+Iron County,2000,34002
+Iron County,2001,34771
+Iron County,2002,35728
+Iron County,2003,36202
+Iron County,2004,37223
+Iron County,2005,39555
+Iron County,2006,42000
+Iron County,2007,43645
+Iron County,2008,44547
+Iron County,2009,45693
+Iron County,2010,46264
+Iron County,2011,46632
+Iron County,2012,46661
+Iron County,2013,46560
+Iron County,2014,47080
+Iron County,2015,48166
+Iron County,2016,49755
+Iron County,2017,50944
+Iron County,2018,52959
+Iron County,2019,55269
+Iron County,2020,57708
+Iron County,2021,60522
+Iron County,2022,62429
+Juab County,2000,8268
+Juab County,2001,8388
+Juab County,2002,8482
+Juab County,2003,8622
+Juab County,2004,8803
+Juab County,2005,8926
+Juab County,2006,9175
+Juab County,2007,9607
+Juab County,2008,10024
+Juab County,2009,10209
+Juab County,2010,10263
+Juab County,2011,10317
+Juab County,2012,10300
+Juab County,2013,10269
+Juab County,2014,10418
+Juab County,2015,10560
+Juab County,2016,11045
+Juab County,2017,11308
+Juab County,2018,11639
+Juab County,2019,12002
+Juab County,2020,11818
+Juab County,2021,12192
+Juab County,2022,12567
+Kane County,2000,6094
+Kane County,2001,6000
+Kane County,2002,6081
+Kane County,2003,6133
+Kane County,2004,6200
+Kane County,2005,6369
+Kane County,2006,6678
+Kane County,2007,6778
+Kane County,2008,6853
+Kane County,2009,7001
+Kane County,2010,7214
+Kane County,2011,7297
+Kane County,2012,7177
+Kane County,2013,7128
+Kane County,2014,7172
+Kane County,2015,7045
+Kane County,2016,7306
+Kane County,2017,7535
+Kane County,2018,7663
+Kane County,2019,7873
+Kane County,2020,7688
+Kane County,2021,7999
+Kane County,2022,8227
+Millard County,2000,12385
+Millard County,2001,12294
+Millard County,2002,12223
+Millard County,2003,12168
+Millard County,2004,12017
+Millard County,2005,11935
+Millard County,2006,11946
+Millard County,2007,11954
+Millard County,2008,12146
+Millard County,2009,12343
+Millard County,2010,12541
+Millard County,2011,12571
+Millard County,2012,12468
+Millard County,2013,12556
+Millard County,2014,12540
+Millard County,2015,12621
+Millard County,2016,12641
+Millard County,2017,12805
+Millard County,2018,12941
+Millard County,2019,13100
+Millard County,2020,13049
+Millard County,2021,13175
+Millard County,2022,13330
+Morgan County,2000,7165
+Morgan County,2001,7337
+Morgan County,2002,7488
+Morgan County,2003,7572
+Morgan County,2004,7725
+Morgan County,2005,7977
+Morgan County,2006,8342
+Morgan County,2007,8771
+Morgan County,2008,9126
+Morgan County,2009,9318
+Morgan County,2010,9523
+Morgan County,2011,9655
+Morgan County,2012,9812
+Morgan County,2013,10215
+Morgan County,2014,10609
+Morgan County,2015,11048
+Morgan County,2016,11368
+Morgan County,2017,11836
+Morgan County,2018,11971
+Morgan County,2019,12115
+Morgan County,2020,12381
+Morgan County,2021,12667
+Morgan County,2022,12832
+Piute County,2000,1436
+Piute County,2001,1414
+Piute County,2002,1417
+Piute County,2003,1409
+Piute County,2004,1430
+Piute County,2005,1430
+Piute County,2006,1429
+Piute County,2007,1419
+Piute County,2008,1511
+Piute County,2009,1528
+Piute County,2010,1563
+Piute County,2011,1497
+Piute County,2012,1495
+Piute County,2013,1486
+Piute County,2014,1465
+Piute County,2015,1489
+Piute County,2016,1457
+Piute County,2017,1406
+Piute County,2018,1434
+Piute County,2019,1472
+Piute County,2020,1433
+Piute County,2021,1482
+Piute County,2022,1487
+Rich County,2000,1965
+Rich County,2001,1932
+Rich County,2002,1947
+Rich County,2003,2039
+Rich County,2004,2051
+Rich County,2005,2055
+Rich County,2006,2035
+Rich County,2007,2124
+Rich County,2008,2227
+Rich County,2009,2253
+Rich County,2010,2255
+Rich County,2011,2295
+Rich County,2012,2258
+Rich County,2013,2263
+Rich County,2014,2274
+Rich County,2015,2301
+Rich County,2016,2311
+Rich County,2017,2388
+Rich County,2018,2455
+Rich County,2019,2468
+Rich County,2020,2500
+Rich County,2021,2581
+Rich County,2022,2628
+Salt Lake County,2000,901018
+Salt Lake County,2001,910750
+Salt Lake County,2002,918152
+Salt Lake County,2003,924802
+Salt Lake County,2004,934140
+Salt Lake County,2005,947963
+Salt Lake County,2006,966798
+Salt Lake County,2007,983719
+Salt Lake County,2008,999553
+Salt Lake County,2009,1016795
+Salt Lake County,2010,1032997
+Salt Lake County,2011,1047702
+Salt Lake County,2012,1064140
+Salt Lake County,2013,1079661
+Salt Lake County,2014,1090340
+Salt Lake County,2015,1102690
+Salt Lake County,2016,1120751
+Salt Lake County,2017,1137273
+Salt Lake County,2018,1148949
+Salt Lake County,2019,1158585
+Salt Lake County,2020,1186921
+Salt Lake County,2021,1186440
+Salt Lake County,2022,1186257
+San Juan County,2000,14334
+San Juan County,2001,13495
+San Juan County,2002,13662
+San Juan County,2003,13571
+San Juan County,2004,13723
+San Juan County,2005,13653
+San Juan County,2006,13679
+San Juan County,2007,14028
+San Juan County,2008,14436
+San Juan County,2009,14514
+San Juan County,2010,14837
+San Juan County,2011,14850
+San Juan County,2012,15052
+San Juan County,2013,15003
+San Juan County,2014,15074
+San Juan County,2015,15254
+San Juan County,2016,15346
+San Juan County,2017,15286
+San Juan County,2018,15336
+San Juan County,2019,15228
+San Juan County,2020,14517
+San Juan County,2021,14476
+San Juan County,2022,14359
+Sanpete County,2000,22806
+Sanpete County,2001,23294
+Sanpete County,2002,23566
+Sanpete County,2003,23866
+Sanpete County,2004,24217
+Sanpete County,2005,24607
+Sanpete County,2006,25051
+Sanpete County,2007,25846
+Sanpete County,2008,26959
+Sanpete County,2009,27511
+Sanpete County,2010,27938
+Sanpete County,2011,28000
+Sanpete County,2012,27958
+Sanpete County,2013,28130
+Sanpete County,2014,28299
+Sanpete County,2015,28663
+Sanpete County,2016,29244
+Sanpete County,2017,29953
+Sanpete County,2018,30529
+Sanpete County,2019,30986
+Sanpete County,2020,28521
+Sanpete County,2021,29138
+Sanpete County,2022,29724
+Sevier County,2000,18877
+Sevier County,2001,18975
+Sevier County,2002,19088
+Sevier County,2003,19192
+Sevier County,2004,19412
+Sevier County,2005,19415
+Sevier County,2006,19844
+Sevier County,2007,20236
+Sevier County,2008,20599
+Sevier County,2009,20694
+Sevier County,2010,20799
+Sevier County,2011,20872
+Sevier County,2012,20662
+Sevier County,2013,20758
+Sevier County,2014,20746
+Sevier County,2015,20872
+Sevier County,2016,21145
+Sevier County,2017,21299
+Sevier County,2018,21516
+Sevier County,2019,21636
+Sevier County,2020,21561
+Sevier County,2021,21918
+Sevier County,2022,22069
+Summit County,2000,29964
+Summit County,2001,30803
+Summit County,2002,31536
+Summit County,2003,32353
+Summit County,2004,33271
+Summit County,2005,34137
+Summit County,2006,34242
+Summit County,2007,34647
+Summit County,2008,35229
+Summit County,2009,35838
+Summit County,2010,36502
+Summit County,2011,37438
+Summit County,2012,37886
+Summit County,2013,38447
+Summit County,2014,39144
+Summit County,2015,39675
+Summit County,2016,40564
+Summit County,2017,41375
+Summit County,2018,41879
+Summit County,2019,42081
+Summit County,2020,42482
+Summit County,2021,43168
+Summit County,2022,43036
+Tooele County,2000,41519
+Tooele County,2001,43331
+Tooele County,2002,44998
+Tooele County,2003,46652
+Tooele County,2004,47894
+Tooele County,2005,49258
+Tooele County,2006,51483
+Tooele County,2007,53821
+Tooele County,2008,55909
+Tooele County,2009,57218
+Tooele County,2010,58502
+Tooele County,2011,59198
+Tooele County,2012,59810
+Tooele County,2013,60655
+Tooele County,2014,61473
+Tooele County,2015,62676
+Tooele County,2016,64643
+Tooele County,2017,67490
+Tooele County,2018,69946
+Tooele County,2019,72110
+Tooele County,2020,73338
+Tooele County,2021,76734
+Tooele County,2022,79934
+Uintah County,2000,25215
+Uintah County,2001,25786
+Uintah County,2002,26395
+Uintah County,2003,26561
+Uintah County,2004,26994
+Uintah County,2005,27661
+Uintah County,2006,28662
+Uintah County,2007,29920
+Uintah County,2008,31009
+Uintah County,2009,32931
+Uintah County,2010,32465
+Uintah County,2011,33246
+Uintah County,2012,34648
+Uintah County,2013,35696
+Uintah County,2014,36934
+Uintah County,2015,37815
+Uintah County,2016,36261
+Uintah County,2017,35235
+Uintah County,2018,35407
+Uintah County,2019,35806
+Uintah County,2020,35671
+Uintah County,2021,36232
+Uintah County,2022,37141
+Utah County,2000,371811
+Utah County,2001,385671
+Utah County,2002,397190
+Utah County,2003,406158
+Utah County,2004,416220
+Utah County,2005,430697
+Utah County,2006,448296
+Utah County,2007,469574
+Utah County,2008,487615
+Utah County,2009,504801
+Utah County,2010,520033
+Utah County,2011,530844
+Utah County,2012,539970
+Utah County,2013,551689
+Utah County,2014,561171
+Utah County,2015,573289
+Utah County,2016,591107
+Utah County,2017,607612
+Utah County,2018,622076
+Utah County,2019,635675
+Utah County,2020,663559
+Utah County,2021,685806
+Utah County,2022,702434
+Wasatch County,2000,15421
+Wasatch County,2001,16205
+Wasatch County,2002,16975
+Wasatch County,2003,17765
+Wasatch County,2004,18349
+Wasatch County,2005,19410
+Wasatch County,2006,20755
+Wasatch County,2007,21413
+Wasatch County,2008,22120
+Wasatch County,2009,22886
+Wasatch County,2010,23642
+Wasatch County,2011,24404
+Wasatch County,2012,25340
+Wasatch County,2013,26578
+Wasatch County,2014,27815
+Wasatch County,2015,29131
+Wasatch County,2016,30433
+Wasatch County,2017,32045
+Wasatch County,2018,33278
+Wasatch County,2019,34210
+Wasatch County,2020,35063
+Wasatch County,2021,36260
+Wasatch County,2022,36619
+Washington County,2000,91206
+Washington County,2001,94512
+Washington County,2002,99274
+Washington County,2003,104188
+Washington County,2004,110207
+Washington County,2005,119000
+Washington County,2006,126796
+Washington County,2007,132277
+Washington County,2008,135552
+Washington County,2009,137088
+Washington County,2010,138397
+Washington County,2011,141288
+Washington County,2012,144216
+Washington County,2013,147099
+Washington County,2014,151231
+Washington County,2015,154839
+Washington County,2016,159537
+Washington County,2017,166195
+Washington County,2018,172051
+Washington County,2019,177938
+Washington County,2020,182009
+Washington County,2021,191476
+Washington County,2022,197680
+Wayne County,2000,2533
+Wayne County,2001,2532
+Wayne County,2002,2559
+Wayne County,2003,2527
+Wayne County,2004,2505
+Wayne County,2005,2510
+Wayne County,2006,2594
+Wayne County,2007,2648
+Wayne County,2008,2731
+Wayne County,2009,2788
+Wayne County,2010,2772
+Wayne County,2011,2742
+Wayne County,2012,2704
+Wayne County,2013,2712
+Wayne County,2014,2695
+Wayne County,2015,2689
+Wayne County,2016,2671
+Wayne County,2017,2699
+Wayne County,2018,2657
+Wayne County,2019,2703
+Wayne County,2020,2508
+Wayne County,2021,2567
+Wayne County,2022,2645
+Weber County,2000,197437
+Weber County,2001,200073
+Weber County,2002,203045
+Weber County,2003,205319
+Weber County,2004,207794
+Weber County,2005,210150
+Weber County,2006,212656
+Weber County,2007,217567
+Weber County,2008,223676
+Weber County,2009,228118
+Weber County,2010,232136
+Weber County,2011,233851
+Weber County,2012,236268
+Weber County,2013,238083
+Weber County,2014,240185
+Weber County,2015,242916
+Weber County,2016,247153
+Weber County,2017,251474
+Weber County,2018,255454
+Weber County,2019,259680
+Weber County,2020,262973
+Weber County,2021,266588
+Weber County,2022,269561

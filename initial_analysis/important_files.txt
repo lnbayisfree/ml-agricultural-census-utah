@@ -1,0 +1,11 @@
+training data:
+wheat_prod_labeled.csv
+
+data for prediction:
+wheat_prod_unlabeled.csv
+
+full input data:
+wheat_prod_feat.csv
+
+results:
+wheat_prod_predicted_standard.csv
