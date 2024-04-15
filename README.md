@@ -1,4 +1,7 @@
 # Utah Agricultural Census: Wheat Production For Utah Counties (2002 - 2022)
+
+![arches](readme_images/arches.jpg)
+
 In this work we attempt to fill in the gap years for the US Agricultural Census in Utah counties. Open source data from NOAA, Agricultural Census, and BLS are used leveraging Machine Learning methods and models.
 
 ## Content
