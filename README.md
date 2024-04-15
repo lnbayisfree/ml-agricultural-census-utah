@@ -16,12 +16,20 @@ In this work we attempt to fill in the gap years for the US Agricultural Census 
 - [Authors](#authors)
 
 ## Results
-The results show that some counties experienced a decrease in wheat production while some saw an increase. Different features that impacted this was based on estimated GPD from agricultural industries in each county. Another significant factor was precipitation levels and temperature.
-### Comparison on Base Dataset vs Base with Predicted Gap Years
-![Predicted Results](readme_images/wheat_prod_comp.png)
+
 To see what factors were most correlated with wheat production the correlation matrix was calculated and the top 10 features were plotted to get a general idea of feature importance.
 ### Top 10 Most Correlated Features with Wheat Production
 ![Correlation](readme_images/top_10_correlated_features.png)
+
+The results show that some counties experienced a decrease in wheat production while some saw an increase. Different features that impacted this was based on estimated GPD from agricultural industries in each county. Another significant factor was precipitation levels and temperature.
+### Comparison on Base Dataset vs Base with Predicted Gap Years
+![Predicted Results](readme_images/wheat_prod_comp.png)
+
+### Beaver County with Predicted Gap Years
+![Predicted Results](readme_images/beaver.png)
+
+### Tooele County with Predicted Gap Years
+![Predicted Results](readme_images/tooele.png)
 
 ## Motivation & Task
 The Agricultural Census releases data every 5 years. We will be using the data from past years to fill in the gaps for counties where the Agricultural Census was not conducted.
