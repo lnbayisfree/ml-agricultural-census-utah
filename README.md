@@ -47,8 +47,9 @@ Valuable information for:
 - `presentation_material`: Contains all current data and processing files related to presentation materials.
 - `readme_images`: Folder for storing images used in README files.
 - `weather_data`: Folder containing scripts and files related to weather data processing.
-- `wheat_prod_predicted_dataset`: Final predicted dataset with filled in gap years.
-- `wheat_prod_labeled`: Training dataset used to train models for predicting gap year wheat production.
+- `wheat_prod_predicted_dataset.csv`: Final predicted dataset with filled in gap years.
+- `wheat_prod_labeled.csv`: Training dataset used to train models for predicting gap year wheat production.
+- `overview.pdf`: Overview of the efforts pursued and final results.
 
 ## Dataset Features:
 
